@@ -1,4 +1,4 @@
-# DeleteBinaries
+# ClearReadOnlyFlags
 Clears read-only flags from binaries folders (including plugins). Useful when pushing binaries perforce and it marks read-only after submitting. 
 
 The purpose is to have a shortcut that when executed will clear read-only flags from all "Binaries" folders from the project and all plugins.
